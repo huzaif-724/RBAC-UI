@@ -29,6 +29,7 @@ npm: Dependency management. <br /> <br/>
 **Setup Instructions** <br/>
 Follow these steps to set up the project locally: <br/> <br/>
 git clone https://github.com/huzaif-724/RBAC-UI.git <br/>
+cd rbac-ui <br/>
 Install dependencies: <br/>
 npm install <br/>
 Start the development server: <br/>
