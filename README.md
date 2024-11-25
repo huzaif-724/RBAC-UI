@@ -8,6 +8,15 @@ The User Management System is a responsive, full-stack web application that simp
 ![Screenshot 2024-11-25 150630](https://github.com/user-attachments/assets/87ecadb8-7f88-455b-8061-5a39d58ddf44)
 
 
+Features
+Add, edit, and delete users with intuitive modal forms.
+Assign roles and manage permissions.
+Filter users by role or status.
+Search users by name with real-time results.
+Export user data to a CSV file.
+Fully responsive design for optimal viewing across devices.
+
+
 
 
 
