@@ -24,7 +24,21 @@ Backend <br />
 Mock API: Simulates server-side data storage and operations. <br />
 Tools <br />
 Node.js: JavaScript runtime for development. <br />
-npm: Dependency management. <br />
+npm: Dependency management. <br /> <br/>
+
+**Setup Instructions** <br/>
+Follow these steps to set up the project locally: <br/> <br/>
+git clone https://github.com/your-username/user-management-system.git <br/>
+Install dependencies: <br/>
+npm install <br/>
+Start the development server: <br/>
+npm start <br/>
+
+
+
+
+
+
 
 
 
