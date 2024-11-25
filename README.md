@@ -8,13 +8,23 @@ The User Management System is a responsive, full-stack web application that simp
 ![Screenshot 2024-11-25 150630](https://github.com/user-attachments/assets/87ecadb8-7f88-455b-8061-5a39d58ddf44)
 
 
-_Features  <br/>
+**Features**  <br/>
 Add, edit, and delete users with intuitive modal forms. <br />
 Assign roles and manage permissions. <br />
 Filter users by role or status. <br />
 Search users by name with real-time results. <br />
 Export user data to a CSV file. <br />
 Fully responsive design for optimal viewing across devices. <br />
+
+**Technologies Used**  <br />
+Frontend <br />
+React.js: Framework for building user interfaces. <br />
+Tailwind CSS: Utility-first CSS framework for styling. <br />
+Backend <br />
+Mock API: Simulates server-side data storage and operations. <br />
+Tools <br />
+Node.js: JavaScript runtime for development. <br />
+npm: Dependency management. <br />
 
 
 
